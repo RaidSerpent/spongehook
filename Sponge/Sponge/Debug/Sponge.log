@@ -1,5 +1,4 @@
-﻿  stdafx.cpp
-  Sponge.cpp
+﻿  patternscanning.cpp
   dllmain.cpp
   Generating Code...
-  Sponge.vcxproj -> C:\Users\Jon\Desktop\Spongehook\Sponge\Debug\Sponge.dll
+  Sponge.vcxproj -> C:\Users\Jon\Documents\GitHub\spongehook\Sponge\Debug\Sponge.dll
